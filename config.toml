@@ -1,7 +1,8 @@
 # Without https:// bad things will happen as it thinks you are appending instead of absolute paths.e
 # baseurl = "https://darvid7.github.io/static-site-test/"
 # 
-baseurl = "https://darvid7.github.io/notdavid.me/"
+#baseurl = "https://darvid7.github.io/notdavid.me/" # github pages hosting.
+baseurl = "http://www.notdavid.me/" # namecheap.
 languageCode = "en-us"
 title = "Hi i'm David"
 theme = "hugo-strata-theme"
