@@ -36,7 +36,7 @@
       
       <guid>https://darvid7.github.io/me/projects/</guid>
       <description>Projects I&amp;rsquo;ve done a range of hackathons, random side projects and a few pieces of polished work. Hopefully this showcases a diverse range of them.
-Google Maps Location Sharing A overview of what I did during my Google internship  Implemented two features on Google Maps Location Sharing during my last Google internship. This included the server as well as the Android work. The features are now launched!  Telstra Swagger Platform Automating SDK generation of APIs using Swagger  Forth year Software Engineering project with Telstra.</description>
+Google Maps Location Sharing A overview of what I did during my Google internship  Implemented two features on Google Maps Location Sharing during my last Google internship. This included the server as well as the Android work.  Telstra Swagger Platform Automating SDK generation of APIs using Swagger  Forth year Software Engineering project with Telstra.</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ var typed = new Typed(&#34;.type&#34;, { strings: [&#34;Java&#34;, &#34;Python&#
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://darvid7.github.io/me/whyareyouhere/</guid>
-      <description>   Chilling at the United Nations     Cinque Terre Italy     Burj Khalifa Dubai     $(window).load(function() { $(&#39;.flexslider&#39;).flexslider({ animation: &#34;slide&#34;, directionNav: false, controlNav: true, animationLoop: true, slideshowSpeed: 4000, // slideshow cycling, in milliseconds animationSpeed: 800, // speed of animations, in milliseconds initDelay: 0, //initialization delay, in milliseconds pauseOnHover: false, }); });  -- </description>
+      <description></description>
     </item>
     
   </channel>

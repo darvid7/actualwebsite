@@ -10,7 +10,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/maps.png" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			Implemented two features on Google Maps Location Sharing during my last Google internship. This included the server as well as the Android work. The features are now launched!
+			Implemented two features on Google Maps Location Sharing during my last Google internship. This included the server as well as the Android work.
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
@@ -25,7 +25,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Gecko DM 🐸</h2>
-		<h3>An Echo 360 (lecture recording system) downloader</h3>
+		<h3>Echo 360 (lecture recording) downloader</h3>
 		<a href="https://geckodm.github.io/" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/gecko.png" alt="" />
 		</a>
@@ -55,7 +55,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Technical Interviews</h2>
-		<h3>A repository of algorithms and coding questions</h3>
+		<h3>A repository of algorithms & data structures</h3>
 		<a href="https://github.com/darvid7/technical-interviews" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/algos.jpg" alt="" />
 		</a>
@@ -65,7 +65,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>AppleSeed</h2>
-		<h3>An optimized & ready to use Java SpringBoot API</h3>
+		<h3>A ready to use Java SpringBoot API</h3>
 		<a href="https://github.com/PatrickShaw/weather-app" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/apple_seed.jpg" alt="" />
 		</a>
