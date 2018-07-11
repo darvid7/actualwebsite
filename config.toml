@@ -1,7 +1,7 @@
 # Without https:// bad things will happen as it thinks you are appending instead of absolute paths.e
 # baseurl = "https://darvid7.github.io/static-site-test/"
 # 
-baseurl = "https://darvid7.github.io/me/"
+baseurl = "https://darvid7.github.io/actualwebsite/"
 languageCode = "en-us"
 title = "Hi i'm David"
 theme = "hugo-strata-theme"
