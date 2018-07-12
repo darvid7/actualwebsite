@@ -23,7 +23,7 @@ I'll be starting at Google in 2019 as a Software Engineer on <img src="/images/c
 <img src="/images/monash.jpg" width="45" align="left"/> 
 At university I am an honours student, teaching associate and web developer.
 My thesis is supervised by [Dr. Lan Du](https://research.monash.edu/en/persons/lan-du) and [Dr. Yuan-Fang Li](https://research.monash.edu/en/persons/yuan-fang-li) in the Faculty of Information Technology. It is focused on a Natural Language Processing approach for Knowledge Graph embeddings, I hope it will contribute to the fields of Machine Learning and Artificial Intelligence.
-I'm a teaching associate running labs, tutorials and marking exams for [Object Oriented Design & Implementation](http://www.monash.edu/pubs/2018handbooks/units/FIT2099.html), [Algorithm fundamentals in Python](http://www.monash.edu/pubs/2018handbooks/units/FIT1045.html) and [Software Engineering Process & Management](http://www.monash.edu/pubs/2018handbooks/units/FIT2101.html).
+I'm a teaching associate running labs, tutorials and marking exams for [Object Oriented Design & Implementation](http://www.monash.edu/pubs/2018handbooks/units/FIT2099.html) and [Algorithm fundamentals in Python](http://www.monash.edu/pubs/2018handbooks/units/FIT1045.html).
 Additionally, I work within the student innovation space on web projects that were originally open sourced but acquired (and funded) by the university.
 
 ### Accenture
