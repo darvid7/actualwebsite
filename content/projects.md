@@ -10,7 +10,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/maps.png" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			Implemented two features on Google Maps Location Sharing during my last Google internship. This included the server as well as the Android work.
+			Implemented two features on Google Maps Location Sharing during my last Google internship. This included work on the server side and Android application.
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
@@ -60,7 +60,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/algos.jpg" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			I use this to help me study for interviews and will continuously add to this (hopefully) throughout my career. Includes common algorithms & data structures, big O, concepts and Python specifics.
+			I use this to help me study for interviews and will continuously add to this (hopefully) throughout my career. Includes common algorithms & data structures, big O & Python specifics.
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
@@ -93,8 +93,6 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			An Android app for viewing popular GitHub repositories. Also comes with geolocation matching functionality that might be useful for dev meetups and such. This started as a university assignment and I kinda left it at that. I might finish building it one day.
 		</p>
 	</article>
-
-
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Scissors Paper Rock</h2>
 		<h3>✂️📰🤘</h3>
@@ -102,7 +100,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/scissors_paper_rock.gif" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			My first ever project! After my first year at uni I felt like I didn't know anything useful to I made this because I wanted to learn how to make something tangible. It is a scissors paper rock game made in Python & tkinter. I made the graphics in Microsoft Paint 😛
+			My first ever project! After my first year at uni I felt like I didn't know anything useful, so I made this because I wanted to learn how to make something tangible. It is a scissors paper rock game made in Python & tkinter. I made the graphics in Microsoft Paint 😛
 		</p>
 	</article>
 	
