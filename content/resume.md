@@ -1,6 +1,6 @@
 # Resume
 ---
-Technical Skills: <span class="type"></span> <br/>[pdf updated March 2018](/resume/David_Lei_CV_2018.pdf)
+Technical Skills: <span class="type"></span> <br/>[pdf updated March 2018](/resume/DavidLei_CV_2018.pdf)
 
 <script type="text/javascript">
 	var typed = new Typed(".type", {
