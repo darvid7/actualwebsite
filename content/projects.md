@@ -65,7 +65,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Trippy</h2>
-		<h3>Real time trip planing with friends</h3>
+		<h3>Real time collaborative trip planing with friends</h3>
 		<a href="https://github.com/callistusystan/Trippy" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/trippy.jpg" alt="" />
 		</a>
