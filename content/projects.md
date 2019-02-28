@@ -55,7 +55,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 		<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Weather App 🌤🌧</h2>
-		<h3>A massively over engineered web application</h3>
+		<h3>A massively over engineered web app</h3>
 		<a href="https://github.com/PatrickShaw/weather-app" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/weather.jpg" alt="" />
 		</a>
