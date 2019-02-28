@@ -4,18 +4,38 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 
 <div class="row">
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
+		<h2>Facebook Global Hackathon</h2>
+		<h3>Informing you of disasters helping you help others</h3>
+		<a href="https://www.facebook.com/hackathon/videos/2306855209387580/?t=1095" class="image fit thumb">
+			<img class="project-image-thumb" src="/images/projects/fb-hack.png" alt="" />
+		</a>
+		<p style="font-size: 15px">
+			Realizing the impact of the wildfires in California which were unknown to us before we got to Sillion Valley, we made an application to notify you about disasters nearby so you can prepare for them & help others. We won 2nd place against teams form hackathons at MIT, Carnegie Mellon, Stanford and London just to name a few!
+		</p>
+	</article>
+	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Google Maps Location Sharing</h2>
 		<h3>A overview of what I did during my Google internship</h3>
 		<a href="/ramblings/maps_internship" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/maps.png" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			Implemented two features on Google Maps Location Sharing during my last Google internship. This included work on the server side and Android application.
+			Implemented two features on Google Maps Android for Location Sharing in Maps during my last Google internship. This included work on the server side and changes to the Android application. I implemented sharing your battery percentage as well as timezone to your loved one you are sharing your location with!
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
+	<h2>Make fundraising easy!</h2>
+	<h3>Freelance web development project</h3>
+	<a href="" class="image fit thumb">
+		<img class="project-image-thumb" src="/images/projects/yoinki.png" alt="" />
+	</a>
+	<p style="font-size: 15px">
+		A few friends were hired to build the tech side for a start up. I worked on the website which was their landing page and main point of entry.
+	</p>
+	</article>
+	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Telstra Swagger Platform</h2>
-		<h3>Automating SDK generation of APIs using Swagger</h3>
+		<h3>Automating SDK generation of APIs</h3>
 		<a href="https://github.com/telstra/swagger-platform" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/telstra_swagger.jpg" alt="" />
 		</a>

@@ -36,7 +36,7 @@
       
       <guid>http://www.notdavid.me/projects/</guid>
       <description>Projects I&amp;rsquo;ve done a range of hackathons, random side projects and a few pieces of polished work. Hopefully this showcases a diverse range of them.
-Google Maps Location Sharing A overview of what I did during my Google internship  Implemented two features on Google Maps Location Sharing during my last Google internship. This included work on the server side and Android application.  Telstra Swagger Platform Automating SDK generation of APIs using Swagger  Forth year Software Engineering project with Telstra.</description>
+Facebook Global Hackathon Informing you of disasters helping you help others  Realizing the impact of the wildfires in California which were unknown to us before we got to Sillion Valley, we made an application to notify you about disasters nearby so you can prepare for them &amp; help others.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ Google Maps Location Sharing A overview of what I did during my Google internshi
       
       <guid>http://www.notdavid.me/resume/</guid>
       <description>Resume Technical Skills:  pdf updated March 2018
-var typed = new Typed(&#34;.type&#34;, { strings: [&#34;Java&#34;, &#34;Python&#34;, &#34;JavaScript&#34;, &#34;C&#34;, &#34;SQL&#34;, &#34;C++&#34;, &#34;TypeScript&#34;, &#34;Swift&#34;, &#34;Bash&#34;, &#34;HTML&#34;, &#34;CSS&#34;, &#34;Perl&#34;, &#34;React&#34;, &#34;Android&#34;], typeSpeed: 150, backSpeed: 150, loop: true, loopCount: Infinity });  I&amp;rsquo;m self taught in web technologies and have worked across the stack in various projects including backend (Flask, SpringBoot, Node), frontend (React, jquery) and mobile (Android) work. Currently I am trying to up skill myself in React, TypeScript, React Native and TensorFlow.</description>
+var typed = new Typed(&#34;.type&#34;, { strings: [&#34;Java&#34;, &#34;Python&#34;, &#34;JavaScript&#34;, &#34;C&#34;, &#34;SQL&#34;, &#34;C++&#34;, &#34;TypeScript&#34;, &#34;Swift&#34;, &#34;Bash&#34;, &#34;HTML&#34;, &#34;CSS&#34;, &#34;Perl&#34;, &#34;React&#34;, &#34;Android&#34;], typeSpeed: 150, backSpeed: 150, loop: true, loopCount: Infinity });  I&amp;rsquo;m self taught in web technologies and have worked across the stack in various projects including backend (Flask, SpringBoot, Node.js), frontend (React.js, jquery, polymer) and mobile (Android, React Native) work. Currently I am trying to up skill myself in TypeScript and TensorFlow.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ var typed = new Typed(&#34;.type&#34;, { strings: [&#34;Java&#34;, &#34;Python&#
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.notdavid.me/homepage/</guid>
-      <description>About me  Hi 👋I&amp;rsquo;m David, born, raised in Melbourne Australia 🇦🇺, the most livable city on Earth 🌏I study Software Engineering at Monash University 🎓and work a bit there, you can read more about my work experience here. In my spare time I travel ✈️, look for dogs to pet 🐶, eat food ☕️🍕🍣 , binge watch Netflix shows 📺and find cool side projects to work on 💻.</description>
+      <description>About me  Hi 👋I&amp;rsquo;m David, born, raised in Melbourne Australia 🇦🇺the most livable city on Earth 🌏I studied Software Engineering at Monash University and just completed my honours thesis incorporating Natural Language Processing and Knowledge Graphs (some Machine Learning stuff) 🎓 More recently, I&amp;rsquo;ve moved to Sydney and started as a Software Engineer at Google where I help make awesome applications that run on multiple devices and the web!</description>
     </item>
     
     <item>
