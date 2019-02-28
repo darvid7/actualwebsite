@@ -10,7 +10,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/fb-hack.png" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			Realizing the impact of the wildfires in California which were unknown to us before we got to Sillion Valley, we made an application to notify you about disasters nearby so you can prepare for them & help others. We won 2nd place against teams form hackathons at MIT, Carnegie Mellon, Stanford and London just to name a few!
+			Realizing the impact of the wildfires in California which were unknown to us before we got to Sillion Valley, we made an application to notify you about disasters. We won 2nd place against teams form hackathons at MIT, Carnegie Mellon, Stanford and London just to name a few!
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
@@ -50,7 +50,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/gecko.png" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			During exam period, there was no way to download multiple lectures at once. So instead of studying for exams, a few friends and I got together to build a chrome extension to download all our lectures (instead of actually watching them). This is available on the <a href="https://chrome.google.com/webstore/detail/geckodm/pgkfjobhhfckamidemkddfnnkknomobe">Chrome store</a>.
+			During exam period, there was no way to download multiple lectures at once. Instead of studying for exams, a few friends and I built a chrome extension to download all our lectures (instead of actually watching them). This is available on the <a href="https://chrome.google.com/webstore/detail/geckodm/pgkfjobhhfckamidemkddfnnkknomobe">Chrome store</a>.
 		</p>
 	</article>
 		<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
@@ -75,7 +75,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
 		<h2>Technical Interviews</h2>
-		<h3>A repository of algorithms & data structures</h3>
+		<h3>A repository of algorithms & data structures questions</h3>
 		<a href="https://github.com/darvid7/technical-interviews" class="image fit thumb">
 			<img class="project-image-thumb" src="/images/projects/algos.jpg" alt="" />
 		</a>
@@ -100,7 +100,7 @@ I've done a range of hackathons, random side projects and a few pieces of polish
 			<img class="project-image-thumb" src="/images/projects/monplan.jpg" alt="" />
 		</a>
 		<p style="font-size: 15px">
-			Originally an open source project started by two dudes called <a href="https://github.com/lorderikir">Eric</a> and <a href="https://github.com/Joshua-Xavier">Josh</a>. This was picked up and funded by the university to be fully built and included into the enrollment process. 
+			Originally an open source project started by two dudes called <a href="https://github.com/lorderikir">Eric</a> and <a href="https://github.com/Joshua-Xavier">Josh</a> to help a student plan their study. This was picked up and funded by the university to be fully built and included into the enrollment process. 
 		</p>
 	</article>
 	<article class="6u 12u$(xsmall) work-item" style="text-align: center;">
