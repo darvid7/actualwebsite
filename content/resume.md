@@ -21,9 +21,9 @@ I've just started at Google as a Software Engineer on <img src="/images/chrome.j
 
 ### Monash University
 <img src="/images/monash.jpg" width="45" align="left"/> 
-At university was a honours student (first class), teaching associate and web developer.
-My honours thesis was supervised by [Dr. Yuan-Fang Li](https://research.monash.edu/en/persons/yuan-fang-li) and [Dr. Lan Du](https://research.monash.edu/en/persons/lan-du) in the Faculty of Information Technology. It is focused on a Natural Language Processing approach for Knowledge Graph embeddings, I hope it will contribute to the fields of Machine Learning and Artificial Intelligence.
-I'm was a teaching associate running labs, tutorials and marking exams for [Object Oriented Design & Implementation](http://www.monash.edu/pubs/2018handbooks/units/FIT2099.html) and [Algorithm fundamentals in Python](http://www.monash.edu/pubs/2018handbooks/units/FIT1045.html).
+At university I was a honours student (first class), teaching associate and web developer.
+My honours thesis was supervised by [Dr. Yuan-Fang Li](https://research.monash.edu/en/persons/yuan-fang-li) and [Dr. Lan Du](https://research.monash.edu/en/persons/lan-du) in the Faculty of Information Technology. It is focused on a Natural Language Processing approach for Knowledge Graph embeddings.
+I also was a teaching associate running labs, tutorials and marking exams for [Object Oriented Design & Implementation](http://www.monash.edu/pubs/2018handbooks/units/FIT2099.html) and [Algorithm fundamentals in Python](http://www.monash.edu/pubs/2018handbooks/units/FIT1045.html).
 Additionally, I worked within the student innovation space on web projects that were originally open sourced, but now acquired (and funded) by the university.
 
 ### Accenture
