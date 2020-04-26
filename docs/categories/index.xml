@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi I&#39;m David</title>
-    <link>http://www.notdavid.me/categories/</link>
+    <link>https://darvid7.github.io/notdavid.me/categories/</link>
     <description>Recent content in Categories on Hi I&#39;m David</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.notdavid.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darvid7.github.io/notdavid.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tech</title>
-      <link>http://www.notdavid.me/categories/tech/</link>
+      <link>https://darvid7.github.io/notdavid.me/categories/tech/</link>
       <pubDate>Tue, 10 Jul 2018 19:48:13 +1000</pubDate>
       
-      <guid>http://www.notdavid.me/categories/tech/</guid>
+      <guid>https://darvid7.github.io/notdavid.me/categories/tech/</guid>
       <description></description>
     </item>
     
