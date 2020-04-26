@@ -28,15 +28,15 @@ Additionally, I worked within the student innovation space on web projects that 
 
 ### Accenture
 <img src="/images/accenture.jpg" width="45" align="left"/> 
-I was a Technical Analyst at Accenture for a while, working on projects to automate business processes which involved using Python, Splunk, JQuery & AWS. I was also a mentor for the Accenture Technology Bootcamp (a 1 week hackathon) leading a team of 6 students.
+I was a Technical Analyst at Accenture, working on projects to automate business processes which involved using Python, Splunk, JQuery & AWS. I was also a mentor for the Accenture Technology Bootcamp (a 1 week hackathon) leading a team of 6 students.
 
 ## Other Relevant Bits
 I've done some other things that might be relevant:
 
 <img src="/images/facebook.png" width="40" align="right"/> 
 
-- Attending tech talks and hackathons. My biggest hackathon achievement is **winning the Facebook Melbourne hackathon**, which comes with a free trip to **San Francisco** to compete in **Facebook’s World Hackathon Finals** where we **placed 2nd**  competing against teams form **MIT, Standford, London, Brazil & Poland** just to name a few!
-- **Global Discovery Scholar** in **New York City** 🗽an entrepreneurial program funded by alumni where I got to pick at the brains of some very well established industry leaders in New York as well as my peers
+- Attending tech talks and hackathons. My biggest hackathon achievement is **winning the Facebook Melbourne hackathon**, which comes with a free trip to **San Francisco** to compete in **Facebook’s World Hackathon Finals** where we **placed 2nd**  competing against teams form **MIT, Stanford, London, Brazil, Poland, Singapore** etc.
+- Monash Uni **Global Discovery Scholar** in **New York City** 🗽an entrepreneurial program funded by Monash Uni alumni where I got to pick at the brains of some very well established industry leaders in New York
 - Sometimes complete at **ICPC** competitions, best result was **3rd** in **VCPC** (state wide) 🎉
 - I occasionally volunteer with [Wired Monash](http://wired.org.au/) & [Robogals](https://robogals.org/) in my spare time
 - **Cliff Bellamy award** (founding Dean of the Faculty of IT) for the **highest achieving 3rd year undergraduate**
