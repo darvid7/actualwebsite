@@ -1,6 +1,6 @@
 # My Website
 
-www.notdavid.me
+https://darvid7.github.io/notdavid.me/
 
 ## Built With
 
